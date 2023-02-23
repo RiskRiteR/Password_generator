@@ -1,5 +1,3 @@
-# from pprint import pprint
-
 from random import *
 
 digits = '0123456789'
